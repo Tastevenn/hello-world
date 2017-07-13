@@ -1,7 +1,5 @@
 // Comment
 console.log("Hello world!");
-console.log("This is fun... kind of...");
-console.log("3");
-console.log("4");
-console.log("5");
-console.log("Fluff");
+var a = 1;
+var b = 'a';
+var c = a;
